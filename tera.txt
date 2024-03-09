@@ -1,2 +1,4 @@
 tera
 terakoya
+terakoya_goodmorning
+terakoya_ok
